@@ -33,6 +33,8 @@ for j in array:
 
         array.remove(j)   "Видалення зі списку парних чисел"
 
+![Варіант 1](https://user-images.githubusercontent.com/86879264/124659939-36343900-deae-11eb-9dea-f9aaeaa1ea78.png)
+
         array.sort(reverse = True)   "Реверсивне сортування списку(за спадання)"
 
 print(array)
