@@ -3,9 +3,7 @@ import math
 from tkinter import *
 
 class Main(Frame):
-    ![1](https://user-images.githubusercontent.com/86879264/125195077-bd8dfd80-e25c-11eb-878b-04078129791a.png)
-![1](https://user-images.githubusercontent.com/86879264/125195083-c67ecf00-e25c-11eb-90ea-9863c11274cd.png)
-def __init__(self, root):
+    def __init__(self, root):
         super(Main, self).__init__(root)
         self.build()
 
