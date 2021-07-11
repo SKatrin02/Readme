@@ -1,8 +1,11 @@
 import math
+
 from tkinter import *
 
 class Main(Frame):
-    def __init__(self, root):
+    ![1](https://user-images.githubusercontent.com/86879264/125195077-bd8dfd80-e25c-11eb-878b-04078129791a.png)
+![1](https://user-images.githubusercontent.com/86879264/125195083-c67ecf00-e25c-11eb-90ea-9863c11274cd.png)
+def __init__(self, root):
         super(Main, self).__init__(root)
         self.build()
 
@@ -68,6 +71,7 @@ class Main(Frame):
 
 
 if __name__ == '__main__':                  ;"Параметри вікна калькулятора"
+
     root = Tk()
     root["bg"] = "#000"
     root.geometry("485x630+200+200")
@@ -76,6 +80,10 @@ if __name__ == '__main__':                  ;"Параметри вікна ка
     app = Main(root)
     app.pack()
     root.mainloop()
+
+![1](https://user-images.githubusercontent.com/86879264/125195089-cc74b000-e25c-11eb-890b-e35cada0d163.png)
+
+
 
 
 
