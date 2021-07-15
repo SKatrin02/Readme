@@ -52,3 +52,5 @@ for numbers in extract_number:
 print("\nВсі числа: ", str(extract_com_num))
 print("\nМаксимальне значення: ", max_num)
 print("\nЧисла піднесені до кореня їх індексу: ", numb_new_string)
+
+![task1](https://user-images.githubusercontent.com/86879264/125749605-3a4f073e-25a1-4d8e-ba23-28ecc99285fa.png)
